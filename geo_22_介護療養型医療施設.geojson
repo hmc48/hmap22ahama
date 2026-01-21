@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "geo_22_介護療養型医療施設",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "医療法人社団一穂会　西山病院【介護療養型医療施設】浜松市西区西山町５００番地", "url": "https://www.kaigokensaku.mhlw.go.jp/22/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=2217110549-00&ServiceCd=530&Type=search", "url2": "http://www.nishiyama.or.jp/" }, "geometry": { "type": "Point", "coordinates": [ 137.6880636, 34.7370781 ] } },
+{ "type": "Feature", "properties": { "内容": "ほしのクリニック【介護療養型医療施設】静岡県藤枝市岡部町内谷650", "url": "https://www.kaigokensaku.mhlw.go.jp/22/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=2215210077-00&ServiceCd=530&Type=search", "url2": "http://www.hoshino-cl.net/" }, "geometry": { "type": "Point", "coordinates": [ 138.2819025, 34.9066236 ] } },
+{ "type": "Feature", "properties": { "内容": "医療法人社団　同仁会　　中島病院【介護療養型医療施設】伊豆市松ヶ瀬７５", "url": "https://www.kaigokensaku.mhlw.go.jp/22/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=2210310476-00&ServiceCd=530&Type=search", "url2": "http://www.nakajimahospital.or.jp" }, "geometry": { "type": "Point", "coordinates": [ 138.930967, 34.9428325 ] } },
+{ "type": "Feature", "properties": { "内容": "富士小山病院【介護療養型医療施設】駿東郡小山町用沢437-1", "url": "https://www.kaigokensaku.mhlw.go.jp/22/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=2211310160-00&ServiceCd=530&Type=search", "url2": "http://fujioyama-hospital.com/" }, "geometry": { "type": "Point", "coordinates": [ 138.9454955, 35.3495996 ] } }
+]
+}

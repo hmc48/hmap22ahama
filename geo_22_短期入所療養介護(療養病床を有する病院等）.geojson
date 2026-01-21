@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "geo_22_短期入所療養介護(療養病床を有する病院等）",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "医療法人社団一穂会　西山病院【短期入所療養介護(療養病床を有する病院等）】静岡県浜松市西区西山町５００番地", "url": "https://www.kaigokensaku.mhlw.go.jp/22/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=2217110549-00&ServiceCd=&Type=search", "url2": "http://www.nishiyama.or.jp/" }, "geometry": { "type": "Point", "coordinates": [ 137.6880636, 34.7370781 ] } },
+{ "type": "Feature", "properties": { "内容": "医療法人社団　心　坂の上在宅医療支援医院【短期入所療養介護(療養病床を有する病院等）】静岡県浜松市中央区幸4-36-2", "url": "https://www.kaigokensaku.mhlw.go.jp/22/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=2217211057-00&ServiceCd=&Type=search", "url2": "http://www.sakanoue-fc.jp" }, "geometry": { "type": "Point", "coordinates": [ 137.7325928, 34.7459694 ] } },
+{ "type": "Feature", "properties": { "内容": "浜松市国民健康保険佐久間病院【短期入所療養介護(療養病床を有する病院等）】静岡県浜松市天竜区佐久間町中部１８－５", "url": "https://www.kaigokensaku.mhlw.go.jp/22/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=2216610135-00&ServiceCd=&Type=search", "url2": "http://www.sakumahp.com" }, "geometry": { "type": "Point", "coordinates": [ 137.8001702, 35.0820197 ] } },
+{ "type": "Feature", "properties": { "内容": "白梅豊岡病院【短期入所療養介護(療養病床を有する病院等）】磐田市下神増185-19", "url": "https://www.kaigokensaku.mhlw.go.jp/22/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=2216910014-00&ServiceCd=&Type=search", "url2": "http://www.shiraume.or.jp" }, "geometry": { "type": "Point", "coordinates": [ 137.8372975, 34.8071816 ] } },
+{ "type": "Feature", "properties": { "内容": "駿河西病院【短期入所療養介護(療養病床を有する病院等）】焼津市中根新田１３１５", "url": "https://www.kaigokensaku.mhlw.go.jp/22/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=2215110202-00&ServiceCd=&Type=search", "url2": "www.suruga-nishi.com/" }, "geometry": { "type": "Point", "coordinates": [ 138.2869143, 34.8291035 ] } },
+{ "type": "Feature", "properties": { "内容": "医療法人社団　綾和会　掛川北病院【短期入所療養介護(療養病床を有する病院等）】掛川市下垂木3350番地", "url": "https://www.kaigokensaku.mhlw.go.jp/22/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=2216210258-00&ServiceCd=&Type=search", "url2": "http://www.ryouwa-kai.com/" }, "geometry": { "type": "Point", "coordinates": [ 137.9960316, 34.786898 ] } },
+{ "type": "Feature", "properties": { "内容": "ほしのクリニック【短期入所療養介護(療養病床を有する病院等）】静岡県藤枝市岡部町内谷650", "url": "https://www.kaigokensaku.mhlw.go.jp/22/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=2215210077-00&ServiceCd=&Type=search", "url2": "http://www4.tokai.or.jp/seiyukai/" }, "geometry": { "type": "Point", "coordinates": [ 138.2819025, 34.9066236 ] } },
+{ "type": "Feature", "properties": { "内容": "富士小山病院【短期入所療養介護(療養病床を有する病院等）】静岡県駿東郡小山町用沢437-1", "url": "https://www.kaigokensaku.mhlw.go.jp/22/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=2211310160-00&ServiceCd=&Type=search", "url2": "http://fujioyama-hospital.com/" }, "geometry": { "type": "Point", "coordinates": [ 138.9454955, 35.3495996 ] } }
+]
+}
